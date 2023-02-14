@@ -1,1 +1,1 @@
-A description of what ech script os doing.
+A description of what each script does.
